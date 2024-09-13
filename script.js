@@ -96,7 +96,7 @@ function enviar() {
    
 
    const hipopotamo = {
-     "nome": "Hipopotamo",
+     "nome": "Hipopótamo",
      "tipo": "herbivoro",
      "habitat": "rio"
    };
@@ -199,7 +199,7 @@ function enviar() {
   }
     
     else {
-        window.alert("erro.");
+        window.alert("Este tipo de animal não existe");
     }
 }
 
